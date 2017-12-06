@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "system_error": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "xlocnum": "cpp",
+        "ostream": "cpp"
+    }
+}
